@@ -1,10 +1,11 @@
 # Opa BaOm!! esse é meu perfil.
 
 ## 💻 Linguagens que tive experiência e contato envolvendo projetos
-**Python:** Desenvolvimento de scripts, automações e aplicações web.
-**Kotlin:** Desenvolvimento de aplicativos móveis para Android.
-**PHP:** Desenvolvimento de aplicações web, integração com banco de dados e desenvolvimento com o framework Laravel.
-**C++:** Criação de softwares de alto desempenho e soluções de baixo nível.
+<img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /> <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />  <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+          
+          
+          
+          
 
  ## 📃Um resumo sobre mim.
 
