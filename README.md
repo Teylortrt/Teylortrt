@@ -1,10 +1,10 @@
 # Opa BaOm!! esse é meu perfil.
 
 ## 💻 Linguagens que tive experiência e contato envolvendo projetos
-- ![Python](https://img.icons8.com/external-flat-juicy-fish/64/external-python-programming-flat-flat-juicy-fish.png) **Python:** Desenvolvimento de scripts, automações e aplicações web.
-- ![Kotlin](https://img.icons8.com/external-flat-juicy-fish/64/external-kotlin-programming-flat-flat-juicy-fish.png) **Kotlin:** Desenvolvimento de aplicativos móveis para Android.
-- ![PHP](https://img.icons8.com/external-flat-juicy-fish/64/external-php-programming-flat-flat-juicy-fish.png) **PHP:** Desenvolvimento de aplicações web, integração com banco de dados e desenvolvimento com o framework Laravel.
-- ![C++](https://img.icons8.com/external-flat-juicy-fish/64/external-c-plus-plus-programming-flat-flat-juicy-fish.png) **C++:** Criação de softwares de alto desempenho e soluções de baixo nível.
+**Python:** Desenvolvimento de scripts, automações e aplicações web.
+**Kotlin:** Desenvolvimento de aplicativos móveis para Android.
+**PHP:** Desenvolvimento de aplicações web, integração com banco de dados e desenvolvimento com o framework Laravel.
+**C++:** Criação de softwares de alto desempenho e soluções de baixo nível.
 
  ## 📃Um resumo sobre mim.
 
@@ -17,6 +17,11 @@
 
 
 ## 📬 Contato
+<div> 
+  <a href = "teylorbsavila@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 
 
