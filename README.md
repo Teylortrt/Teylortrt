@@ -1,5 +1,11 @@
 # Olá, esse é meu perfil.
 
+ ## 📃Um resumo sobre mim.
+
+
+
+
+ 
 ## 💻 Linguagens e ferramentas que tive experiência e contato envolvendo projetos
 <div>
 <img name="kotlin" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /> 
@@ -12,13 +18,6 @@
 <img name="arduino" align="center" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" /> 
 <img name="c++" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 </div>        
-           
-          
-          
-
- ## 📃Um resumo sobre mim.
-
-
 
 ## 📬 Contato
 <div> 
