@@ -3,7 +3,7 @@
  ## 📃Um resumo sobre mim.
 
 
-## ⭐minhas linguagens e ferramentas favoritaa
+## ⭐minhas linguagens e ferramentas favoritas
 
  
 ## 💻 Linguagens e ferramentas que tive experiência e contato envolvendo projetos
