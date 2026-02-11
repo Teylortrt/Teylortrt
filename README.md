@@ -3,11 +3,13 @@
  ## 📃Um resumo sobre mim.
 testetstetsttste
 
-## ⭐minhas linguagens e ferramentas favoritas
+# ⭐Minhas linguagens e ferramentas favoritas
+## ( Nessas ferramentas tenho experiencia e certificação )
 <div>
-<img name="c++" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img name="os guri do linux" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-       
+ <img name="c era dos dinossauros" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+ <img name="c++" align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+ <img name="os guri do linux" align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
+      
           
 </div>        
 
