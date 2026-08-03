@@ -1,7 +1,6 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:000000,50:1e293b,100:3b82f6&text=Linux%20%7C%20Development%20%7C%20Hardware&fontColor=ffffff&fontSize=35"/>
+  <img src="./assets/banner-linux.jpg" width="700">
 </p>
-
 
 <h1 align="center">Olá, eu sou o Teylor 👋</h1>
 
