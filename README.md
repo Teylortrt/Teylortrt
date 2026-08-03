@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Teylor 👋</h1>
 
-<!--
-**Teylortrt/Teylortrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+💻 Estudante de Tecnologia <br>
+🔧 Gosto de Hardware, Eletrônica e Desenvolvimento <br>
+📚 Sempre aprendendo algo novo
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+- 🎓 Estudando Programação, Eletrônica e Redes
+- 🔧 Trabalho com manutenção de computadores e notebooks
+- 🌱 Atualmente estudando C, C++, Python e Linux
+- 🎯 Objetivo: atuar na área de TI e futuramente Cibersegurança
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=c" height="45"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="45"/>
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://skillicons.dev/icons?i=kotlin" height="45"/>
+<img src="https://skillicons.dev/icons?i=php" height="45"/>
+<br>
+<img src="https://skillicons.dev/icons?i=linux" height="45"/>
+<img src="https://skillicons.dev/icons?i=bash" height="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+</p>
+---
+
+## 📂 Projetos
+
+📌 Alguns projetos disponíveis neste perfil:
+
+- 🐍 Exercícios e projetos em Python
+- ⚙️ Projetos em C/C++
+- 🌐 Backend em PHP
+- 📱 Aplicativos Android em Kotlin
+
+---
+
+## 📫 Contato
+
+📧 **teylorbsavila@gmail.com**
+
+💼 Sempre aberto para aprender, colaborar e participar de novos projetos.
