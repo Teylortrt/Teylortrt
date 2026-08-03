@@ -5,8 +5,10 @@
 <h1 align="center">Olá, eu sou o Teylor 👋</h1>
 
 <p align="center">
-💻 Estudante de Tecnologia <br>
+💻 Técnico em TI <br>
 🔧 Gosto de Hardware, Eletrônica e Desenvolvimento <br>
+🐧 Usuário Linux <br>
+🛠️ Estudante de Manutenção em Placas Eletrônicas <br>
 📚 Sempre aprendendo algo novo
 </p>
 
@@ -14,10 +16,12 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudando Programação, Eletrônica e Redes
-- 🔧 Trabalho com manutenção de computadores e notebooks
-- 🌱 Atualmente estudando C, C++, Python e Linux
-- 🎯 Objetivo: atuar na área de TI e futuramente Cibersegurança
+- 🎓 Estudante de Eletrônica, Software e Programação.
+- 🔧 Trabalho com suporte help desk.
+- 🌱 Atualmente estudando C, C++, Python e Linux.
+- 🛠️ Manutenção de Placas Eletrônicas.
+- 🔐 Tenho interesse em Cibersegurança.
+- 🎯 Objetivo: atuar na área de TI, conquistar mais certificados e adquirir experiência na área.
 
 ---
 
@@ -30,21 +34,25 @@
 <img src="https://skillicons.dev/icons?i=python" height="45"/>
 <img src="https://skillicons.dev/icons?i=kotlin" height="45"/>
 <img src="https://skillicons.dev/icons?i=php" height="45"/>
+
 <br>
+
 <img src="https://skillicons.dev/icons?i=linux" height="45"/>
 <img src="https://skillicons.dev/icons?i=bash" height="45"/>
 <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+
 </p>
+
 ---
 
 ## 📂 Projetos
 
 📌 Alguns projetos disponíveis neste perfil:
 
-- 🐍 Exercícios e projetos em Python
-- ⚙️ Projetos em C/C++
-- 🌐 Backend em PHP
-- 📱 Aplicativos Android em Kotlin
+- 🐍 Exercícios e projetos em Python.
+- ⚙️ Projetos em C/C++.
+- 🌐 Backend em PHP.
+- 📱 Aplicativos Android em Kotlin.
 
 ---
 
