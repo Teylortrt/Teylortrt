@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Teylortrt/linux penguin.jpeg" width="700">
+  <img src="./linux%20penguin.jpeg" width="350">
 </p>
 
 <h1 align="center">Olá, eu sou o Teylor 👋</h1>
