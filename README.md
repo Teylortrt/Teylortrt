@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-linux.jpg" width="700">
+  <img src="./Teylortrt/linux penguin.jpeg" width="700">
 </p>
 
 <h1 align="center">Olá, eu sou o Teylor 👋</h1>
