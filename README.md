@@ -7,7 +7,6 @@
 <p align="center">
 💻 Técnico em TI <br>
 🔧 Gosto de Hardware, Eletrônica e Desenvolvimento <br>
-🐧 Usuário Linux <br>
 🛠️ Estudante de Manutenção em Placas Eletrônicas <br>
 📚 Sempre aprendendo algo novo
 </p>
