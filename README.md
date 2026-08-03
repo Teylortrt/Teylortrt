@@ -2,7 +2,7 @@
   <img src="./linux%20penguin.jpeg" width="350">
 </p>
 
-<h1 align="center">Olá, eu sou o Teylor 👋</h1>
+<h1 align="center">Olá,sou o Teylor 👋</h1>
 
 <p align="center">
 💻 Técnico em TI <br>
